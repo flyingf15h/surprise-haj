@@ -1,10 +1,8 @@
 # surprise-haj
 
-run for a haj filled surprise :tm:
+run for a haj filled surprise :tm:, objectively useless but blahaj !!
 
-the executable isnt suspicious i swear
-
-full demo since downloading things is annoying:
+full demo since downloading extracting and running the entire thing is annoying:
 
 https://youtu.be/lV_bFS8mLc8
 
