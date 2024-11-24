@@ -13,7 +13,7 @@ def display_image(image_path, duration=3, count=16):
     root.wm_attributes('-transparentcolor', 'black') 
     rootImg = Image.open(image_path)
 
-    # Images stored in the array then deleted
+    # Images/ window popup things stored in the array then deleted
     windows = []  
 
     # Random size and location for each image in labels in separate windows
