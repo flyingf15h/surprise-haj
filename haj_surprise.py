@@ -25,6 +25,7 @@ def display_image(image_path, duration=3, count=16):
         img = rootImg.resize((width, height))
         img = ImageTk.PhotoImage(img)
 
+        # Window config, draws image
         window = tk.Toplevel(root)
         window.attributes("-topmost", True)
         window.overrideredirect(True)  
