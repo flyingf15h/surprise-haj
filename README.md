@@ -2,8 +2,7 @@
 
 run for a haj filled surprise :tm:, objectively useless but blahaj !!
 
-full demo since downloading extracting and running the entire thing is annoying:
-
+downloading extracting and running the entire thing is annoying so full demo link:
 https://youtu.be/lV_bFS8mLc8
 
 what happens when the exe is run:
